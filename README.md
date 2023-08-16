@@ -1,5 +1,5 @@
-#RESOLUÇÃO PARA DESAFIO CAIXA DA LANCHONETE
+# RESOLUÇÃO PARA DESAFIO CAIXA DA LANCHONETE
 
-##DESCRiÇÃO
+## DESCRiÇÃO
 Segue a resolução para o desafio proposto para o Programa Estágio Start DB
 realizado utilizando a linguagem JavaScript
